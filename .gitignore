@@ -1,0 +1,8 @@
+# ignore files
+*.ipynb
+**/*/*.ipynb
+*.txt
+photos/*
+
+# exceptions
+!photos/.gitkeep
